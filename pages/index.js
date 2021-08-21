@@ -15,7 +15,7 @@ export default function Home() {
             <div></div>
             <div className="flex flex-col py-16 lg:p-0 lg:flex-row justify-center lg:h-screen bg-gradient-to-b from-[#eeeff9] to-white">
                 <div className="lg:w-1/2 flex items-center relative">
-                    <div className="px-6 lg:ml-16 space-y-4 z-50 lg:w-[60%]">
+                    <div className="px-6 lg:ml-16 space-y-4 z-50 lg:w-[85%] ">
                         <h3 className="text-md tracking-wide  text-[#5c6bc0]">
                             LOREM IPSUM
                         </h3>
@@ -32,7 +32,7 @@ export default function Home() {
                             ACTION
                         </button>
                     </div>
-                    <div className="absolute w-1/2 h-full lg:h-[60%] bottom-0 right-0 lg:left-0 rounded-bl-full lg:rounded-bl-none rounded-tl-full bg-gradient-to-b from-[#eeeff9] to-white"></div>
+                    <div className="absolute w-1/2 lg:w-[80%] xl:w-[60%] h-full lg:h-[60%] bottom-0 right-0 lg:left-0 rounded-bl-full lg:rounded-bl-none rounded-tl-full bg-gradient-to-b from-[#eeeff9] to-white"></div>
                 </div>
                 <div className="lg:w-1/2 md:py-20 p-6 flex flex-col md:flex-row space-y-14 md:space-y-0 md:space-x-14 items-center relative z-50 xl:p-6 2xl:p-12">
                     <div className="space-y-14 z-50 flex flex-col md:-mt-16">
